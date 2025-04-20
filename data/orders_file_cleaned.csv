@@ -1,0 +1,4 @@
+order_id,customer,order_date,product,quantity,price,total_cost
+ORD001,John Doe,2023-01-01,Laptop,1,999.99,999.99
+ORD002,Jane Smith,2023-01-02,Mouse,2,29.99,59.98
+ORD003,Bob Johnson,2023-01-03,Keyboard,1,59.99,59.99
